@@ -1,8 +1,7 @@
 ## Prerequisites
 
-```
+
 Python 3.8, [Poetry](https://python-poetry.org/), Make
-```
 
 ## Running
 
